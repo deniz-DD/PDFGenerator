@@ -10,7 +10,8 @@ import  autoTable  from 'jspdf-autotable';
 })
 export class AppComponent {
 
-  // @ViewChild('content' , {static: false}) el!: ElementRef; 
+  // @ViewChild('content' , {static: false}) el!: ElementRef; +
+  
 
 
   // makePDF(){
